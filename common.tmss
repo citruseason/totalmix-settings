@@ -2,7 +2,7 @@
 	<BabyfacePro73028842>
 		<General>
 			<val e="Version" v="1200"/>
-			<val e="Current Preset" v="1.00,"/>
+			<val e="Current Preset" v="-2.00,"/>
 			<val e="Mute Global" v="1.00,"/>
 			<val e="Solo Global" v="0.00,"/>
 			<val e="MuteGroup 1" v="0.00,"/>
@@ -28,9 +28,9 @@
 			<val e="SpeakerBSelect" v="0.00,"/>
 			<val e="CueChannel" v="-1.00,"/>
 			<val e="CueToChannel" v="0.00,"/>
-			<val e="DIM Enable" v="0.00,"/>
+			<val e="DIM Enable" v="1.00,"/>
 			<val e="DIM Level" v="-20.00,"/>
-			<val e="DIM Prev. Level" v="-38.50,"/>
+			<val e="DIM Prev. Level" v="-50.50,"/>
 			<val e="Last State BF" v="64.00,"/>
 			<val e="HW Pre Post" v="0.00,"/>
 			<val e="Recall Level" v="-10.00,"/>
@@ -93,13 +93,13 @@
 			<val e="Chan Mute 00" v="0.00,"/>
 			<val e="Rev Return 00" v="-65.00,"/>
 			<val e="Chan Level 00" v="1.00,"/>
-			<val e="Chan Gain 00" v="39.00,"/>
+			<val e="Chan Gain 00" v="65.00,"/>
 			<val e="Auto Set 00" v="0.00,"/>
 			<val e="Phase Invert 00" v="0.00,"/>
 			<val e="M/S-Coding 00" v="0.00,"/>
 			<val e="Width 00" v="1.00,"/>
 			<val e="PF Listen 00" v="0.00,"/>
-			<val e="Rev Send 00" v="11.36,"/>
+			<val e="Rev Send 00" v="76.36,"/>
 			<val e="Loopback 00" v="0.00,"/>
 			<val e="Phant Power 00" v="1.00,"/>
 			<val e="High Z Inp 00" v="0.00,"/>
@@ -109,13 +109,13 @@
 			<val e="No Trim 00" v="0.00,"/>
 			<val e="Mirror To 00" v="0.00,"/>
 			<val e="Input Pad 00" v="0.00,"/>
-			<val e="LC Enable 00" v="0.00,"/>
-			<val e="Equ Enable 00" v="0.00,"/>
+			<val e="LC Enable 00" v="1.00,"/>
+			<val e="Equ Enable 00" v="1.00,"/>
 			<val e="LC Grade 00" v="0.00,"/>
 			<val e="LC Freq 00" v="60.00,"/>
 			<val e="Band1 Freq 00" v="111.00,"/>
 			<val e="Band1 Q 00" v="0.70,"/>
-			<val e="Band1 Gain 00" v="8.00,"/>
+			<val e="Band1 Gain 00" v="2.00,"/>
 			<val e="Band2 Freq 00" v="1500.00,"/>
 			<val e="Band2 Q 00" v="0.70,"/>
 			<val e="Band2 Gain 00" v="3.00,"/>
@@ -132,7 +132,7 @@
 			<val e="Chan Mute 01" v="0.00,"/>
 			<val e="Rev Return 01" v="-65.00,"/>
 			<val e="Chan Level 01" v="1.00,"/>
-			<val e="Chan Gain 01" v="50.00,"/>
+			<val e="Chan Gain 01" v="65.00,"/>
 			<val e="Auto Set 01" v="0.00,"/>
 			<val e="Phase Invert 01" v="0.00,"/>
 			<val e="M/S-Coding 01" v="0.00,"/>
@@ -171,7 +171,7 @@
 			<val e="Chan Mute 02" v="0.00,"/>
 			<val e="Rev Return 02" v="-65.00,"/>
 			<val e="Chan Level 02" v="1.00,"/>
-			<val e="Chan Gain 02" v="0.00,"/>
+			<val e="Chan Gain 02" v="4.50,"/>
 			<val e="Auto Set 02" v="0.00,"/>
 			<val e="Phase Invert 02" v="0.00,"/>
 			<val e="M/S-Coding 02" v="0.00,"/>
@@ -210,7 +210,7 @@
 			<val e="Chan Mute 03" v="0.00,"/>
 			<val e="Rev Return 03" v="-65.00,"/>
 			<val e="Chan Level 03" v="1.00,"/>
-			<val e="Chan Gain 03" v="0.00,"/>
+			<val e="Chan Gain 03" v="4.50,"/>
 			<val e="Auto Set 03" v="0.00,"/>
 			<val e="Phase Invert 03" v="0.00,"/>
 			<val e="M/S-Coding 03" v="0.00,"/>
@@ -1210,7 +1210,7 @@
 			<val e="Layout OpenClose 11" v="0.00,"/>
 		</Outputs>
 		<Mixer>
-			<val e="Slider 00 00" v="-65.00,"/>
+			<val e="Slider 00 00" v="0.00,"/>
 			<val e="Slider 00 01" v="-65.00,"/>
 			<val e="Slider 00 02" v="-65.00,"/>
 			<val e="Slider 00 03" v="-65.00,"/>
@@ -1224,10 +1224,10 @@
 			<val e="Slider 00 11" v="-61.77,"/>
 			<val e="Slider 00 12" v="0.00,"/>
 			<val e="Slider 00 13" v="0.00,"/>
-			<val e="Slider 00 14" v="-6.14,"/>
-			<val e="Slider 00 15" v="-6.14,"/>
-			<val e="Slider 00 16" v="-7.00,"/>
-			<val e="Slider 00 17" v="-7.00,"/>
+			<val e="Slider 00 14" v="-7.00,"/>
+			<val e="Slider 00 15" v="-7.00,"/>
+			<val e="Slider 00 16" v="-12.86,"/>
+			<val e="Slider 00 17" v="-12.86,"/>
 			<val e="Slider 00 18" v="0.00,"/>
 			<val e="Slider 00 19" v="0.00,"/>
 			<val e="Slider 00 20" v="0.00,"/>
@@ -1241,23 +1241,25 @@
 			<val e="Slider 02 11" v="-61.77,"/>
 			<val e="Slider 02 12" v="0.00,"/>
 			<val e="Slider 02 13" v="0.00,"/>
-			<val e="Slider 02 14" v="-6.14,"/>
-			<val e="Slider 02 15" v="-6.14,"/>
-			<val e="Slider 02 18" v="-7.25,"/>
-			<val e="Slider 02 19" v="-7.25,"/>
-			<val e="Slider 02 24" v="-38.50,"/>
-			<val e="Slider 03 24" v="-38.50,"/>
+			<val e="Slider 02 14" v="-7.78,"/>
+			<val e="Slider 02 15" v="-7.78,"/>
+			<val e="Slider 02 16" v="-14.48,"/>
+			<val e="Slider 02 17" v="-14.48,"/>
+			<val e="Slider 02 18" v="0.00,"/>
+			<val e="Slider 02 19" v="0.00,"/>
+			<val e="Slider 02 24" v="-40.05,"/>
+			<val e="Slider 03 24" v="-40.05,"/>
 			<val e="Slider 04 01" v="-65.00,"/>
+			<val e="Slider 04 04" v="-11.84,"/>
+			<val e="Slider 04 05" v="-11.84,"/>
 			<val e="Slider 04 12" v="0.00,"/>
 			<val e="Slider 04 13" v="0.00,"/>
 			<val e="Slider 04 14" v="-7.00,"/>
 			<val e="Slider 04 15" v="-7.00,"/>
-			<val e="Slider 04 16" v="-7.00,"/>
-			<val e="Slider 04 17" v="-7.00,"/>
+			<val e="Slider 04 16" v="-12.86,"/>
+			<val e="Slider 04 17" v="-12.86,"/>
 			<val e="Slider 04 18" v="-5.00,"/>
 			<val e="Slider 04 19" v="-5.00,"/>
-			<val e="Slider 04 20" v="-13.38,"/>
-			<val e="Slider 04 21" v="-13.38,"/>
 			<val e="Slider 04 22" v="0.00,"/>
 			<val e="Slider 04 23" v="0.00,"/>
 			<val e="Slider 04 24" v="-17.00,"/>
@@ -1307,12 +1309,9 @@
 			<val e="Slider 05 23" v="6.02,"/>
 			<val e="Pan 05 23" v="1.00,"/>
 			<val e="Slider 05 24" v="-17.00,"/>
+			<val e="Slider 06 00" v="0.00,"/>
 			<val e="Slider 06 10" v="-61.77,"/>
 			<val e="Slider 06 11" v="-61.77,"/>
-			<val e="Slider 06 18" v="0.00,"/>
-			<val e="Slider 06 19" v="0.00,"/>
-			<val e="Slider 06 20" v="0.00,"/>
-			<val e="Slider 06 21" v="0.00,"/>
 			<val e="Slider 06 24" v="0.00,"/>
 			<val e="Slider 07 00" v="-3.01,"/>
 			<val e="Slider 07 02" v="-293.98,"/>
@@ -1360,6 +1359,9 @@
 			<val e="Slider 07 23" v="-293.98,"/>
 			<val e="Pan 07 23" v="1.00,"/>
 			<val e="Slider 07 24" v="0.00,"/>
+			<val e="Slider 08 00" v="-17.00,"/>
+			<val e="Slider 08 18" v="0.00,"/>
+			<val e="Slider 08 19" v="0.00,"/>
 			<val e="Slider 08 24" v="0.00,"/>
 			<val e="Slider 09 24" v="0.00,"/>
 			<val e="Slider 10 20" v="0.00,"/>
@@ -1377,7 +1379,7 @@
 			<val e="MidiOut" v="None"/>
 			<val e="MidiSelBus" v="0"/>
 			<val e="MidiSelChannel" v="0"/>
-			<val e="MidiSelSubmix" v="4"/>
+			<val e="MidiSelSubmix" v="2"/>
 			<val e="MCSupport" v="1"/>
 			<val e="MCExtender" v="0"/>
 			<val e="MCSelSubmixInPb" v="0"/>
@@ -1442,7 +1444,7 @@
 		<OscRemote0>
 			<val e="OscSelBus" v="0"/>
 			<val e="OscSelChannel" v="0"/>
-			<val e="OscSelSubmix" v="4"/>
+			<val e="OscSelSubmix" v="2"/>
 			<val e="OSCRemoteInUse" v="1"/>
 			<val e="OSCOwnPort" v="7001"/>
 			<val e="OSCRemotePort" v="9001"/>
